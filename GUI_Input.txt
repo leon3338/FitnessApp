@@ -1,0 +1,6 @@
+Happy,Wednesday,12000,Fed,get groceries
+Excited,Thursday,56161,not fed,take car in
+Anxious,Wednesday,5644161,Fed, finish homework
+Excited,Saturday15651,Fed,Watch Ted Lasso
+Happy,Friday,868,Fed,turn in my final project 
+Calm,Friday,8646,Fed,No new tasks
